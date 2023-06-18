@@ -1,0 +1,508 @@
+.background{
+    background-color: rgb(252, 243, 238);"; 
+}
+.header-image{
+    width: 90%;
+    height: 720px;
+    background-image: url(../assets/supersub.png);
+    background-size: cover;
+    background-position: center;
+    margin-left: 10.5%;
+}
+
+.logo{
+    background-image: url(../assets/logo-SuperSub.png);
+    width: 150px;
+    height: 80px;
+    background-size: cover;
+    background-position: cover;
+    margin-left: 30px;
+    margin-top: -20px;
+}
+
+.navbar-nav{
+    padding-left: 31%;
+    font-size: 20px;
+    font-family: 'Lora', serif;
+}
+
+.search{
+    width: 20%;
+    margin-top: -5px;
+}
+
+.nav-item{
+    margin-right: 50px;
+}
+
+.active{
+    color:rgb(40, 14, 9);
+}
+
+.nav-link:hover{
+    color:rgb(67, 28, 21);
+}
+
+
+
+.header h1{
+    font-size: 76px;
+    padding-top: 120px;
+    padding-left: 50px;
+    font-family: 'Shrikhand', cursive;
+}
+
+.header p{
+    width: 700px;
+    padding-left: 50px;
+    padding-top: 20px;
+    font-family: 'Lora', serif;
+}
+
+.btn{
+    height: 40px;
+    background-color: rgb(255, 166, 0);
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 50px;
+    margin-top: 10px;
+    border: 2px solid rgb(255, 166, 0);
+    color: white;
+}
+
+.btn:hover{
+    background-color: white;
+    border: 2px solid rgb(255, 166, 0);
+}
+
+.mr-sm-2{
+    height: 40px;
+    border: 1.5px solid rgb(67, 28, 21);
+}
+
+.about{
+    margin-top: 30px;
+}
+.circle-image{
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    background-image: url(../assets/sub\ sandwhich\ -\ AU.jpg);
+    margin-left: 300px;
+    background-size: cover;
+    background-position: center;
+}
+
+.about-us{
+    width: 650px;
+    margin-top: 100px;
+}
+
+.about-us h3{
+    font-family: 'Shrikhand', cursive;
+}
+
+.about-us p{
+    font-family: 'Lora', serif;
+}
+
+.contact{
+    height: 40px;
+    background-color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: 10px;
+    margin-left: -5px;
+    border: 2px solid rgb(255, 166, 0);
+    color: black;
+}
+
+.contact:hover{
+    background-color: rgb(255, 166, 0);
+    border: 2px solid rgb(255, 166, 0);
+}
+
+.sub-month{
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 80px;
+}
+
+.sub-month h3{
+    font-family: 'Shrikhand', cursive;
+}
+
+.cards{
+    margin-left: 330px;
+    margin-bottom: 80px;
+}
+.image{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-image: url(../assets/Hero\ Sandwich.jpg);
+    background-size: cover;
+    background-position: center;
+    margin-left: -330px;
+    margin-top: -30px;
+}
+
+.image2{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-image: url(../assets/Italian\ Sub.jpg);
+    background-size: cover;
+    background-position: center;
+    margin-left: -330px;
+    margin-top: -30px;
+}
+
+.image3{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-image: url(../assets/chicken\ Sub.jpg);
+    background-size: cover;
+    background-position: center;
+    margin-left: -330px;
+    margin-top: -30px;
+}
+
+.image4{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-image: url(../assets/Classic\ BLT\ sandwich.jpg);
+    background-size: cover;
+    background-position: center;
+    margin-left: -330px;
+    margin-top: -30px;
+}
+
+.image5{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-image: url(../assets/Firehouse\ sub.jpg);
+    background-size: cover;
+    background-position: center;
+    margin-left: -330px;
+    margin-top: -30px;
+}
+
+.image6{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-image: url(../assets/Ham\ Salad\ Sub.jpg);
+    background-size: cover;
+    background-position: center;
+    margin-left: -330px;
+    margin-top: -30px;
+}
+
+.image7{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-image: url(../assets/healthy\ sub.jpg);
+    background-size: cover;
+    background-position: center;
+    margin-left: -330px;
+    margin-top: -30px;
+}
+
+.image8{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-image: url(../assets/Meat\ Supreme.jpeg);
+    background-size: cover;
+    background-position: center;
+    margin-left: -330px;
+    margin-top: -30px;
+}
+
+.info{
+    width: 75%;
+    height: 300px;
+    border-radius: 7px;
+    background-color: #2b2b2b;
+    color: white;
+    margin-left: -120px;
+    padding-top: 180px;
+}
+
+.info h4{
+    font-family: 'Shrikhand', cursive;
+    letter-spacing: 0.5px;
+}
+
+.info p{
+    font-family: 'Lora', serif;
+}
+
+footer{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(249, 204, 176);
+    padding-top: 20px;
+    padding-left: 20px;
+    margin-top: 50px;
+}
+
+.copy{
+    padding-top: 20px;
+}
+
+.socials{
+    margin-left: 10px;
+}
+
+.social-1{
+    width: 60px;
+    height: 60px;
+}
+
+.social-2{
+    width: 60px;
+    height: 60px;
+}
+
+.social-3{
+    width: 60px;
+    height: 60px;
+}
+
+.social-4{
+    width: 60px;
+    height: 60px;
+}
+
+.jumbotron h1{
+    font-family: 'Shrikhand', cursive;
+    margin-top: 40px;
+}
+
+.jumbotron p{
+    font-family: 'Lora', serif;
+    margin-top: 20px;
+}
+
+.forms{
+    margin-left: 10%;
+    margin-top: 50px;
+    font-family: 'Lora', serif;
+    margin-bottom: 8px;
+}
+
+.forms p{
+    font-weight: bolder;
+    margin-bottom: 3px;
+}
+
+
+
+.container-fluid{
+    height: 2px;
+    background-color: rgb(200, 93, 70);
+    margin-top: 30px;
+    margin-bottom: 35px;
+}
+
+.bread-options{
+    margin-left: 10%;
+    font-family: 'Lora', serif;
+}
+
+.bread-options h3{
+    font-weight: bold;
+}
+
+.container-fluid2{
+    width: 80%;
+    height: 2px;
+    background-color: rgb(200, 93, 70);
+    margin-left: 10%;
+    margin-top: 40px;
+}
+
+.topping-option{
+    margin-left: 10%;
+    margin-top: 35px;
+    font-family: 'Lora', serif;
+}
+
+.topping-option h3{
+    font-weight: bold;
+}
+
+.sauces-option{
+    margin-left: 10%;
+    margin-top: 35px;
+    font-family: 'Lora', serif;
+}
+
+.sauces-option h3{
+    font-weight: bold;
+}
+
+.left {
+    margin-left: 18%;
+    height: 40px;
+    width: 200px;
+    border-radius: 6px;
+    border: 2px solid rgb(67, 28, 21);
+    padding-left: 10px;
+}
+
+.add{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 8px;
+    height: 50px;
+    border: 2px solid rgb(246, 181, 61);
+    margin-left: -10px;
+    margin-top: -20px;
+    background-color: white;
+    margin-left: 15%;
+    font-family: 'Lora', serif;
+    font-size: 20px;
+    color: black;
+}
+
+.add:hover{
+    background-color:rgb(246, 181, 61);
+    border: 2px solid rgb(246, 181, 61);
+    color: white;
+}
+
+.current{
+    margin-left: 10%;
+    font-family: 'Shrikhand', cursive;
+}
+
+.checkout{
+    margin-left: 6%;
+    height: 45px;
+    font-family: 'Lora', serif;
+    font-size: 18px;
+    color: white;
+}
+
+
+.order{
+    padding-left: 10%;
+    margin-top: 50px;
+}
+
+.order h3{
+    font-family: 'Shrikhand', cursive;
+}
+
+.details h3{
+    font-family: 'Shrikhand', cursive;
+    margin-top: 50px;
+    letter-spacing: 1px;
+}
+
+form{
+    margin-top: 10px;
+    font-family: 'Lora', serif;
+    width: 60%;
+}
+
+form p{
+    font-weight: bolder;
+    margin-bottom: 4px;
+    margin-top: 7px;
+}
+
+.order-card{
+    width: 25%;
+    background-color: rgb(235, 130, 106);
+    margin-bottom: 50px;
+    border-radius: 20px;
+    padding: 20px;
+    margin-left: 100px;
+    border: solid 2px rgb(200, 93, 70);
+}
+
+.order-card h5{
+    font-family: 'Shrikhand', cursive;
+    letter-spacing: 0.5px; 
+}
+
+.order-card p{
+    font-family: 'Lora', serif;
+}
+
+.order-placement h2{
+    font-family: 'Shrikhand', cursive; 
+    letter-spacing: 0.5px; 
+    margin-left: 7%;  
+}
+
+.card-check{
+    width: 50%;
+    background-color:rgb(250, 193, 180);
+    height: 300px;
+    border-radius: 30px;
+    margin: 0 auto;
+    padding: 30px;
+    border: solid 2px rgb(228, 121, 97);
+}
+
+.card-check h2{
+    font-family: 'Shrikhand', cursive; 
+    letter-spacing: 0.5px; 
+    margin-left: 20%;
+}
+
+.card-check h1{
+    font-weight: bold;
+}
+
+.discount{
+    width: 50%;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.add-coupon{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 8px;
+    height: 50px;
+    border: 2px solid rgb(235, 130, 106);
+    background-color: white;
+    margin-left: 31%;
+    font-family: 'Lora', serif;
+    font-size: 20px;
+    color: black;
+}
+
+.add-coupon:hover{
+    background-color:rgb(235, 130, 106);
+    border: 2px solid rgb(235, 130, 106);
+    color: white;
+}
+
+.pay{
+    height:50px;
+    width: 150px;
+    font-size: 20px;
+    margin-left: 81.5%;
+    margin-top: -30px;
+    background-color: rgb(200, 93, 70);
+    border: 2px solid rgb(200, 93, 70);
+}
+
+.pay:hover{
+    border: 2px solid rgb(200, 93, 70);
+    background-color: white;
+}
+
